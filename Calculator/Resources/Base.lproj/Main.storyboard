@@ -33,6 +33,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="E5r-K6-l0d"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="11" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k5o-69-bZ1">
                                                 <rect key="frame" x="92.333333333333343" y="0.0" width="84.333333333333343" height="87.333333333333329"/>
@@ -44,6 +47,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="aeU-vf-di0"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="12" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ngf-5d-Gh4">
                                                 <rect key="frame" x="184.66666666666666" y="0.0" width="83.999999999999972" height="87.333333333333329"/>
@@ -55,6 +61,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sBi-MX-feq"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="13" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QFV-Ud-9Pu">
                                                 <rect key="frame" x="276.66666666666669" y="0.0" width="84.333333333333314" height="87.333333333333329"/>
@@ -66,6 +75,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PKL-e3-QRP"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -82,6 +94,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Lic-cA-2sV"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="8" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fI3-6x-iYd">
                                                 <rect key="frame" x="92.333333333333343" y="0.0" width="84.333333333333343" height="87"/>
@@ -93,6 +108,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EN2-6n-jfV"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="9" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5Rb-nX-hoB">
                                                 <rect key="frame" x="184.66666666666666" y="0.0" width="83.999999999999972" height="87"/>
@@ -104,6 +122,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="SMF-6i-mV6"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="14" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TdM-9r-i37">
                                                 <rect key="frame" x="276.66666666666669" y="0.0" width="84.333333333333314" height="87"/>
@@ -115,6 +136,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BOO-Fx-hQZ"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -131,6 +155,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Cei-gM-LlR"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lvo-5W-kZl">
                                                 <rect key="frame" x="92.333333333333343" y="0.0" width="84.333333333333343" height="87.333333333333329"/>
@@ -142,6 +169,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fWk-BG-e7h"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="6" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4Hp-iF-9oB">
                                                 <rect key="frame" x="184.66666666666666" y="0.0" width="83.999999999999972" height="87.333333333333329"/>
@@ -153,6 +183,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IyF-5c-p6r"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="15" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oq4-aC-3e2">
                                                 <rect key="frame" x="276.66666666666669" y="0.0" width="84.333333333333314" height="87.333333333333329"/>
@@ -164,6 +197,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="w2o-KR-nRj"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -180,6 +216,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1Bn-NX-ZGq"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bfP-Dk-k5r">
                                                 <rect key="frame" x="92.333333333333343" y="0.0" width="84.333333333333343" height="87"/>
@@ -191,6 +230,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Zyd-Tf-7O9"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wN0-wO-DI8">
                                                 <rect key="frame" x="184.66666666666666" y="0.0" width="83.999999999999972" height="87"/>
@@ -202,6 +244,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="P9T-ef-Tkw"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="16" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bg4-OC-PRs">
                                                 <rect key="frame" x="276.66666666666669" y="0.0" width="84.333333333333314" height="87"/>
@@ -213,6 +258,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4Db-PO-HxW"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -229,6 +277,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="L3F-ks-cbF"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="18" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jki-wC-HSK">
                                                 <rect key="frame" x="178.66666666666666" y="0.0" width="86.999999999999972" height="87.333333333333329"/>
@@ -243,6 +294,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ALU-uY-whI"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" tag="17" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ovr-nY-I0b">
                                                 <rect key="frame" x="273.66666666666669" y="0.0" width="87.333333333333314" height="87.333333333333329"/>
@@ -257,6 +311,9 @@
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
+                                                <connections>
+                                                    <action selector="handleTappedCalculatorButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vkA-nG-HvZ"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -282,6 +339,9 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="3db-AZ-SYl" secondAttribute="trailing" constant="16" id="rCV-lh-L9d"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="resultLabel" destination="3db-AZ-SYl" id="7Sq-c3-KpH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
