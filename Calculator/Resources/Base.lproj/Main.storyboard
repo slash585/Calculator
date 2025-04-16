@@ -332,10 +332,12 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="3db-AZ-SYl" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="EFt-r6-Bp7"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Oa5-Xm-ccw" secondAttribute="trailing" constant="16" id="Hhc-rg-rhZ"/>
                             <constraint firstItem="Oa5-Xm-ccw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="OFv-Yi-eDa"/>
                             <constraint firstItem="Oa5-Xm-ccw" firstAttribute="top" secondItem="3db-AZ-SYl" secondAttribute="bottom" constant="16" id="YJQ-DX-F8Q"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Oa5-Xm-ccw" secondAttribute="bottom" constant="16" id="eod-Rc-Hhy"/>
+                            <constraint firstItem="3db-AZ-SYl" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="m5a-18-nFn"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="3db-AZ-SYl" secondAttribute="trailing" constant="16" id="rCV-lh-L9d"/>
                         </constraints>
                     </view>
