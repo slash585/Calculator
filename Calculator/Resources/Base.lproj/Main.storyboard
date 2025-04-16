@@ -322,7 +322,7 @@
                                     <constraint firstAttribute="height" constant="500" id="l8f-fK-l56"/>
                                 </constraints>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3db-AZ-SYl">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="bottomRight" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3db-AZ-SYl">
                                 <rect key="frame" x="16" y="75" width="361" height="211"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="90"/>
                                 <color key="textColor" red="0.050980392156862744" green="0.0039215686274509803" blue="0.023529411764705882" alpha="1" colorSpace="calibratedRGB"/>
@@ -335,6 +335,7 @@
                             <constraint firstItem="3db-AZ-SYl" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="EFt-r6-Bp7"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Oa5-Xm-ccw" secondAttribute="trailing" constant="16" id="Hhc-rg-rhZ"/>
                             <constraint firstItem="Oa5-Xm-ccw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="OFv-Yi-eDa"/>
+                            <constraint firstItem="3db-AZ-SYl" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="Twh-js-sjV"/>
                             <constraint firstItem="Oa5-Xm-ccw" firstAttribute="top" secondItem="3db-AZ-SYl" secondAttribute="bottom" constant="16" id="YJQ-DX-F8Q"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Oa5-Xm-ccw" secondAttribute="bottom" constant="16" id="eod-Rc-Hhy"/>
                             <constraint firstItem="3db-AZ-SYl" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="m5a-18-nFn"/>
