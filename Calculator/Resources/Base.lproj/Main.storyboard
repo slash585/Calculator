@@ -307,7 +307,7 @@
                                                 <state key="normal" title="Button"/>
                                                 <buttonConfiguration key="configuration" style="plain" title="=">
                                                     <backgroundConfiguration key="background" cornerRadius="35">
-                                                        <color key="backgroundColor" red="0.21176470589999999" green="0.14901960780000001" blue="0.65098039220000004" alpha="1" colorSpace="calibratedRGB"/>
+                                                        <color key="backgroundColor" red="1" green="0.20000000000000001" blue="0.1215686275" alpha="1" colorSpace="calibratedRGB"/>
                                                     </backgroundConfiguration>
                                                     <fontDescription key="titleFontDescription" type="system" weight="medium" pointSize="34"/>
                                                 </buttonConfiguration>
@@ -323,7 +323,7 @@
                                 </constraints>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3db-AZ-SYl">
-                                <rect key="frame" x="323.33333333333331" y="178.33333333333334" width="53.666666666666686" height="107.66666666666666"/>
+                                <rect key="frame" x="16" y="75" width="361" height="211"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="90"/>
                                 <color key="textColor" red="0.050980392156862744" green="0.0039215686274509803" blue="0.023529411764705882" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
